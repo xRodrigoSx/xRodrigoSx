@@ -1,7 +1,6 @@
 # Olá, me chamo Rodrigo! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-## Quem sou eu?
 <div class="text">
                 <h2><Strong>Sintonia com o Futuro:</Strong> Trocando <Strong style="color: orangered;">Fios</Strong> por
                     <Strong style="color: royalblue;">Código</Strong></h2>
