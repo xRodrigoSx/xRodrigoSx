@@ -1,6 +1,17 @@
 # Olá, me chamo Rodrigo! 
 ## Bem vindo ao meu perfil GitHub 👋
 
+## Quem sou eu?
+<div class="text">
+                <h2><Strong>Sintonia com o Futuro:</Strong> Trocando <Strong style="color: orangered;">Fios</Strong> por
+                    <Strong style="color: royalblue;">Código</Strong></h2>
+                <p>Apaixonado por tecnologia e com um histórico na área de elétrica, busco agora me desafiar em
+                    uma nova jornada: a área de desenvolvimento de software. Sou um profissional dedicado e
+                    entusiasmado, com grande interesse em aprender e me desenvolver na área de
+                    tecnologia. Acredito que minhas habilidades e experiências na área de elétrica, somadas à minha
+                    paixão por tecnologia, me tornam um candidato ideal para ingressar nesse campo promissor.</p>
+            </div>
+
 ## Contatos:
 
 <div>
